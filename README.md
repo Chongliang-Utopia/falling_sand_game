@@ -4,11 +4,12 @@ A game which allows you to simulate the interactions of particles of different t
 **COMMAND CONTROL**
 - c - clear the screen
 - p - pause/resume the game
-- m - paint a METAL paticle
-- s - paint a SAND paticle
-- w - paint a WATER paticle
-- a - paint a ACID paticle
-- g - paint a GAS paticle
 - b - drop a BOMB
 - u - increase speed
 - d - decrease speed
+- to paint 
+  - m - paint a METAL paticle
+  - s - paint a SAND paticle
+  - w - paint a WATER paticle
+  - a - paint a ACID paticle
+  - g - paint a GAS paticle
