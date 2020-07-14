@@ -12,7 +12,7 @@ A game which allows you to simulate the interactions of particles of different t
 | m | drop a METAL particle|
 | s | drop a SAND particle |
 | w | drop a WATER particle |
-| A | drop an ACID particle |
+| a | drop an ACID particle |
 | g | drop a GAS particle |
 | b | drop a Bomb |
 
