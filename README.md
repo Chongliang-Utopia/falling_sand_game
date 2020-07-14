@@ -13,3 +13,6 @@ A game which allows you to simulate the interactions of particles of different t
   - a - ACID
   - g - GAS
   - b - BOMB
+  
+# Built with
+- python
