@@ -7,7 +7,7 @@ A game which allows you to simulate the interactions of particles of different t
 - b - drop a BOMB
 - u - increase speed
 - d - decrease speed
-- to paint 
+- paint command: 
   - m - METAL
   - s - SAND
   - w - WATER
