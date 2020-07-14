@@ -1,9 +1,6 @@
 # File: fallingsand.py
-# Authors: Chad Hogg, Maria Jump and Chongliang Tao
+# Author: Chongliang Tao
 # A Falling Sand game.
-# Couese Name: CS 5001 Online
-# Assignment: Homework 7
-# Student Name: Chongliang Tao
 
 import pygame
 import random
