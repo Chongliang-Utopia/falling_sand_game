@@ -4,7 +4,6 @@ A game which allows you to simulate the interactions of particles of different t
 **COMMAND CONTROL**
 - c - clear the screen
 - p - pause/resume the game
-- b - drop a BOMB
 - u - increase speed
 - d - decrease speed
 - paint commands: 
@@ -13,3 +12,4 @@ A game which allows you to simulate the interactions of particles of different t
   - w - WATER
   - a - ACID
   - g - GAS
+  - b - BOMB
