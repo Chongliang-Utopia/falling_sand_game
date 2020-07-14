@@ -8,8 +8,8 @@ A game which allows you to simulate the interactions of particles of different t
 - u - increase speed
 - d - decrease speed
 - to paint 
-  - m - paint a METAL paticle
-  - s - paint a SAND paticle
-  - w - paint a WATER paticle
-  - a - paint a ACID paticle
-  - g - paint a GAS paticle
+  - m - METAL
+  - s - SAND
+  - w - WATER
+  - a - ACID
+  - g - GAS
