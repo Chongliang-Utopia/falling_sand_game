@@ -1,6 +1,6 @@
 # File: fallingsand.py
 # Author: Chongliang Tao
-# A Falling Sand game.
+# A Falling Sand game. Hope you enjoy.
 
 import pygame
 import random
